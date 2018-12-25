@@ -1,4 +1,4 @@
-======<br>
+
 the chrome of anti taobao login 
 ======
 
@@ -22,7 +22,7 @@ see the "return"$cdc_asdjflasutopfhvcZLmcfl_"in u||f.webdriver" in '淘宝反登
 
 reference material
 =======
-https://www.urlteam.org/2018/11/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3selenium%E8%A2%AB%E6%A3%80%E6%B5%8B%EF%BC%8C%E5%AE%9E%E7%8E%B0%E6%B7%98%E5%AE%9D%E7%99%BB%E9%99%86/
-https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver
-http://www.site-digger.com/html/articles/20180821/653.html
-https://intoli.com/blog/making-chrome-headless-undetectable/
+https://www.urlteam.org/2018/11/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3selenium%E8%A2%AB%E6%A3%80%E6%B5%8B%EF%BC%8C%E5%AE%9E%E7%8E%B0%E6%B7%98%E5%AE%9D%E7%99%BB%E9%99%86/<br>
+https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver<br>
+http://www.site-digger.com/html/articles/20180821/653.html<br>
+https://intoli.com/blog/making-chrome-headless-undetectable/<br>
